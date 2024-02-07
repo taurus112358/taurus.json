@@ -1,0 +1,7 @@
+{
+  "name": "taurus",
+  "website": "https://github.com/taurus112358",
+  "description": "I operate on some data",
+  "logo": "https://r.resimlink.com/tREGpM.png",
+  "twitter": "https://twitter.com/taurus_112358"
+}   
